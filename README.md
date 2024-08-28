@@ -1,5 +1,5 @@
 
-# Metal Price Tracker App
+# Rate Radar (Metal Price Tracker App)
 
 The Metal Price Tracker App is a mobile application developed using Flutter and Dart. It provides users with up-to-date metal prices, specifically focusing on gold prices. The app fetches real-time data from [metalpricetapi.com](https://www.metalpricetapi.com) to deliver accurate and reliable information to the users.
 
